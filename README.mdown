@@ -1,0 +1,3 @@
+# Hot Bunnies
+
+The canonical location for this gem is now https://github.com/ruby-amqp/hot_bunnies
